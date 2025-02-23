@@ -8,4 +8,4 @@
 	header('Location: '.$uri.'/Home.html');
 	exit;
 ?>
-Something is wrong with the Website :-(
+<!--Something is wrong with the Website :-(
